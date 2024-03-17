@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&family=Whisper&display=swap");
+
+a{
+  color: black !important;
+}
+span{
+  font-family: "Whisper", cursive;
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 30px;
+  color:#542068 !important;
+}
+
+
+.brand-logo {
+  font-family: "Whisper", cursive;
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 30px;
+  font-size: 60px !important;
+  color:#542068 !important;
+  /* font-color:#6a1b9a purple darken-3 !important; */
+}
+
+/* .mycard{
+  /* margin-top: 30px; */
+
+.auth-card{
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin:10px auto;
+}
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #721498 !important;
+  box-shadow: 0 1px 0 0 #721498 !important;
+}
+.link{
+  text-decoration: none;
+  color: #721498 !important;
+  margin-left: 3px;
+}
+
+.Gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item{
+  width: 30%;
+  margin-bottom: 20px;
+}
+.home{
+  background: rgb(56,51,51);
+  background: linear-gradient(63deg, rgba(56,51,51,1) 17%, rgba(65,61,61,1) 48%, rgba(47,53,53,0.9954832274706757) 86%);
+  height: 100vh;
+
+}
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin: 25px auto;
+}
+
+
+.input{
+  /* align-self: center !important; */
+/* margin-left: 40% !important; */
+text-align: center !important;
+
+  border-radius: 80px !important;
+  width: 30% !important;
+  border : 1px solid black !important;
+}
+.button{
+border-radius: 80px;
+border:2px solid black
+;
+background-color: black !important;
+color: white !important;
+padding :0px 10px 2px 10px
+
+}
